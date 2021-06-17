@@ -19,7 +19,6 @@ Here you can choose an action - add a new object or find and edit an existing on
 
 If you chose to add a new object, you will see the following window:
 
-
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic2.png)
 
 Next, in the drop-down list, select the type of object to add
@@ -39,4 +38,18 @@ If you enter the name of an existing galaxy and try to add it, you will see an e
 If you enter the name of an object that is not yet in the database and add it, you will see a success message:
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic6.png)
+
+If you chose to find an object, you will see a window with a choice of the type of object and a field for entering the name of the object.
+
+Let's say you chose to find a galaxy.
+
+If you enter the name of an object that is not yet in the database, you will see an error message:
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic7.png)
+
+If you enter the name of an existing object, 
+
+
+
+
 

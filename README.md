@@ -36,3 +36,7 @@ If you enter the name of an existing galaxy and try to add it, you will see an e
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic5.png)
 
+If you enter the name of an object that is not yet in the database and add it, you will see a success message:
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic6.png)
+

@@ -34,7 +34,7 @@ Here you need to enter the parameters of the object to be added - name (required
 
 If you enter the name of an existing galaxy and try to add it, you will see an error message:
 
-![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic5.png)
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic5a.png)
 
 If you enter the name of an object that is not yet in the database and add it, you will see a success message:
 

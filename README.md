@@ -26,3 +26,13 @@ Next, in the drop-down list, select the type of object to add
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic3.png)
 
+Let's say you chose to add a new galaxy
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic4.png)
+
+Here you need to enter the parameters of the object to be added - name (required), type (for example, spiral), declination, right ascension, and distance to the object.
+
+If you enter the name of an existing galaxy and try to add it, you will see an error message:
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic5.png)
+

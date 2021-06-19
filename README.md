@@ -41,13 +41,15 @@ If you enter the name of an object that is not yet in the database and add it, y
 
 If you chose to find an object, you will see a window with a choice of the type of object and a field for entering the name of the object.
 
-Let's say you chose to find a galaxy.
+Let's say you chose to find a Star System.
 
 If you enter the name of an object that is not yet in the database, you will see an error message:
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic7.png)
 
-If you enter the name of an existing object, 
+If you enter the name of an existing object, the information about it will be displayed in the appropriate fields:
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic8.png)
 
 
 

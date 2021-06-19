@@ -59,6 +59,7 @@ If you  edit fields of the object correctly, you will see a success message:
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic9.png)
 
+This is the entire functionality of the app.
 
 
 

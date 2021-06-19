@@ -51,6 +51,16 @@ If you enter the name of an existing object, the information about it will be di
 
 ![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic8.png)
 
+Here you can edit object's field as you want and press `Edit` button.
+
+If you edit some fields of the object  incorrectly, for example, enter a non-existent name of a galaxy or constellation, then the `Edit` button will play a shaking animation.
+
+If you  edit fields of the object correctly, you will see a success message:
+
+![Image alt](https://github.com/r0mbeg/AstronomicalDatabaseApplication/blob/main/images/pic9.png)
+
+
+
 
 
 
